@@ -13,13 +13,11 @@ Although the evaluation kit ([Blockchain Security 2Go Starterkit](https://www.in
 für details bitte an infineon melden 
 
 ## Table of Content
-  * [Available Form Factors](#Available-Form-Factors)
-  * [operate with SECORA<sup>TM</sup> Blockchain](#Getting Started with SECORA<sup>TM</sup> Blockchain)
-  * [Blockchain Security 2Go Starter Kit - Getting Started](#getting-started)
+  * [Getting Started](#getting-started)
+  * [Develop your Own Blockchain Security 2Go Application](#develop-your-own-blockchain-security-2go-application)
   * [FAQs](#faqs)
   * [Contributing](#contributing)
   
-
 
   
 ## Getting Started
