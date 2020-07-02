@@ -14,12 +14,12 @@ The main features of SECORA<sup>TM</sup> Blockchain are:
 * Support customer individual master key
 * Signature generation
 * User authentication with PIN
-* Support various crypto schemes e.g. Ethereum, Bitcoin, ERC-20 …
 
 
 ## Table of Content
   * [Available Form Factors](#Available-Form-Factors)
-  * [Getting Started](#getting-started)
+  * [Getting Started - SECORA<sup>TM</sup> Blockchain](#Getting Started with SECORA<sup>TM</sup> Blockchain)
+  * [Getting Started - Blockchain Security 2Go Starter Kit](#getting-started)
   * [FAQs](#faqs)
   * [Contributing](#contributing)
   
@@ -37,10 +37,8 @@ To link the SECORA<sup>TM</sup> Blockchain smart cards to a Blockchain, you need
 The BlockSec2Go Python library gives you an easy way to use your cards with an Windows, Linux, or Mac device. Follow the steps of the getting started guide at https://github.com/WaltherPachler/SECORA_Blockchain/tree/master/python-blockchain2go.
 
 
-
-
-# Infineon's Blockchain Security 2Go Starter Kit
-
+  
+## Infineon's Blockchain Security 2Go Starter Kit - Getting Started
 Infineon’s Blockchain Security 2Go starter kit provides protection of user credentials (keys) with a security controller offering security on a high level. It gives you a fast and easy way to build hardware-based security in your blockchain system design. 
 
 <p align="center"><img src="doc/pictures/bcs2go_starterkit.png" width="40%" align="middle"></p>
@@ -53,8 +51,6 @@ High-level information about the Starterkit is availble at [infineon.com/blockch
 If you have technical questions or you want to see a new feature of the starter kit please create an issue.
 
 
-  
-## Getting Started
 To link the Blockchain Security 2Go smart cards to a Blockchain, you need a device that handles the communication with the Blockchain. This could either be
 * an NFC-enabled smartphone, or
 * a host device (e.g. PC, RasperryPi) connected to a contactless reader. 
