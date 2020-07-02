@@ -5,6 +5,9 @@ This repository provides all you need to work with [Infineon's](https://www.infi
 SECORA<sup>TM</sup> Blockchain is a Java Card<sup>TM</sup> platform based one-stop-shop solution featuring field proven hardware security technology supporting best-in-class security for your blockchain systems. An evaluation kit and many usecase examples of SECORA<sup>TM</sup> Blockchain are available as "Infineon’s Blockchain Security 2Go starter kit" at [infineon.com/blockchain](https://www.infineon.com/blockchain)
 
 es gib mehrerere features , verschiedene formfaktoren
+Although the evaluation kit ([Blockchain Security 2Go Starterkit](https://www.infineon.com/blockchain)) comes only in card formfactor only, SECORA<sup>TM</sup> Blockchain is available in various delivery forms, such as dual interface modules, contactless modules and the SPA (small passive accessory) formfactor:
+
+für details bitte an infineon melden 
 
 ## Table of Content
   * [Available Form Factors](#Available-Form-Factors)
@@ -13,22 +16,16 @@ es gib mehrerere features , verschiedene formfaktoren
   * [FAQs](#faqs)
   * [Contributing](#contributing)
   
-## Available Form Factors of SECORA<sup>TM</sup> Blockchain
-Although the evaluation kit ([Blockchain Security 2Go Starterkit](https://www.infineon.com/blockchain)) comes only in card formfactor only, SECORA<sup>TM</sup> Blockchain is available in various delivery forms, such as dual interface modules, contactless modules and the SPA (small passive accessory) formfactor:
 
-<p><img src="doc/formfactors.PNG"></p>
-
-## Getting Started with SECORA<sup>TM</sup> Blockchain
-To link the SECORA<sup>TM</sup> Blockchain smart cards to a Blockchain, you need a device that handles the communication with the Blockchain. This could either be
-* an NFC-enabled smartphone, or
-* a host device (e.g. PC, RasperryPi) connected to a contactless reader. 
 
 ### Getting Started with Windows, Linux and Mac
 The BlockSec2Go Python library gives you an easy way to use your cards with an Windows, Linux, or Mac device. Follow the steps of the getting started guide at https://github.com/WaltherPachler/SECORA_Blockchain/tree/master/python-blockchain2go.
 
 
   
-## Getting Started - Infineon's Blockchain Security 2Go Starter Kit
+## Getting Started
+wir empfehlen starter kit kaufen danach volume product secora blockchain 
+
 Infineon’s Blockchain Security 2Go starter kit provides protection of user credentials (keys) with a security controller offering security on a high level. It gives you a fast and easy way to build hardware-based security in your blockchain system design. 
 
 <p align="center"><img src="doc/pictures/bcs2go_starterkit.png" width="40%" align="middle"></p>
