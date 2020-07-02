@@ -4,7 +4,10 @@ This repository provides all you need to work with [Infineon's](https://www.infi
 
 SECORA<sup>TM</sup> Blockchain is a Java Card<sup>TM</sup> platform based one-stop-shop solution featuring field proven hardware security technology supporting best-in-class security for your blockchain systems. An evaluation kit and many usecase examples of SECORA<sup>TM</sup> Blockchain are available as "Infineon’s Blockchain Security 2Go starter kit" at [infineon.com/blockchain](https://www.infineon.com/blockchain)
 
-es gib mehrerere features , verschiedene formfaktoren
+es gib mehrerere features , verschiedene formfaktoren, beispiel python implementierung blocksec-
+
+
+
 Although the evaluation kit ([Blockchain Security 2Go Starterkit](https://www.infineon.com/blockchain)) comes only in card formfactor only, SECORA<sup>TM</sup> Blockchain is available in various delivery forms, such as dual interface modules, contactless modules and the SPA (small passive accessory) formfactor:
 
 für details bitte an infineon melden 
@@ -16,10 +19,6 @@ für details bitte an infineon melden
   * [FAQs](#faqs)
   * [Contributing](#contributing)
   
-
-
-### Getting Started with Windows, Linux and Mac
-The BlockSec2Go Python library gives you an easy way to use your cards with an Windows, Linux, or Mac device. Follow the steps of the getting started guide at https://github.com/WaltherPachler/SECORA_Blockchain/tree/master/python-blockchain2go.
 
 
   
