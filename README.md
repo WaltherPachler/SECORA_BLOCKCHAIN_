@@ -4,22 +4,12 @@ This repository provides all you need to work with [Infineon's](https://www.infi
 
 SECORA<sup>TM</sup> Blockchain is a Java Card<sup>TM</sup> platform based one-stop-shop solution featuring field proven hardware security technology supporting best-in-class security for your blockchain systems. An evaluation kit and many usecase examples of SECORA<sup>TM</sup> Blockchain are available as "Infineon’s Blockchain Security 2Go starter kit" at [infineon.com/blockchain](https://www.infineon.com/blockchain)
 
-The main features of SECORA<sup>TM</sup> Blockchain are:
-* Designed on Java Card™ platform
-* Support contact based and contactless communication protocol
-* SCP03 for secure authentication and encrypted communication
-* Creation and storage of up to 100 key pairs
-* Support key labeling
-* Support enhanced secure reset PIN/PUK
-* Support customer individual master key
-* Signature generation
-* User authentication with PIN
-
+es gib mehrerere features , verschiedene formfaktoren
 
 ## Table of Content
   * [Available Form Factors](#Available-Form-Factors)
-  * [Getting Started - SECORA<sup>TM</sup> Blockchain](#Getting Started with SECORA<sup>TM</sup> Blockchain)
-  * [Getting Started - Blockchain Security 2Go Starter Kit](#getting-started)
+  * [operate with SECORA<sup>TM</sup> Blockchain](#Getting Started with SECORA<sup>TM</sup> Blockchain)
+  * [Blockchain Security 2Go Starter Kit - Getting Started](#getting-started)
   * [FAQs](#faqs)
   * [Contributing](#contributing)
   
@@ -38,7 +28,7 @@ The BlockSec2Go Python library gives you an easy way to use your cards with an W
 
 
   
-## Infineon's Blockchain Security 2Go Starter Kit - Getting Started
+## Getting Started - Infineon's Blockchain Security 2Go Starter Kit
 Infineon’s Blockchain Security 2Go starter kit provides protection of user credentials (keys) with a security controller offering security on a high level. It gives you a fast and easy way to build hardware-based security in your blockchain system design. 
 
 <p align="center"><img src="doc/pictures/bcs2go_starterkit.png" width="40%" align="middle"></p>
