@@ -4,26 +4,21 @@ This repository provides all you need to work with [Infineon's](https://www.infi
 
 
 SECORA<sup>TM</sup> Blockchain is a Java Card<sup>TM</sup> platform based one-stop-shop solution featuring field proven hardware security technology supporting best-in-class security for your blockchain systems. 
-Compared to the Blockchain Security 2Go Starterkit, SECORA<sup>TM</sup> Blockchain is a feature enhanced solution that is available in many formfactors (e.g. dual interface modules or Infineon's [S-SPA1.x](https://www.infineon.com/dgdl/Infineon-Security-Solutions-Portfolio-ProductSelectionGuide-v20_02-EN.pdf?fileId=5546d4624933b875014999016c6e2bde "S-SPA1.x") solution as formfactor). 
-[SECORA<sup>TM</sup> Blockchain python library](https://github.com/Infineon/SECORA-Blockchain-Python-Library "secora-blockchain-python-lib")
 
 
 
-Although the evaluation kit ([Blockchain Security 2Go Starterkit](https://www.infineon.com/blockchain)) comes only in card formfactor only, SECORA<sup>TM</sup> Blockchain is available in various delivery forms, such as dual interface modules, contactless modules and the SPA (small passive accessory) formfactor:
-
-für details bitte an infineon melden 
+SECORA<sup>TM</sup> Blockchain is a feature enhanced solution that is available in many formfactors (e.g. dual interface modules or Infineon's novel "small passive accessory" [S-SPA1.x](https://www.infineon.com/dgdl/Infineon-Security-Solutions-Portfolio-ProductSelectionGuide-v20_02-EN.pdf?fileId=5546d4624933b875014999016c6e2bde "S-SPA1.x"). 
+We highly recommend to start working on your blockchain idea using the NDA free evaluation kit (Blockchain Security 2Go Starterkit). Ones you are ready for ramping, get in contact and order the prefered SECORA<sup>TM</sup> Blockchain volume product.
+Similar to the evaluation kit framework you can find an enhanced python library for SECORA<sup>TM</sup> Blockchain at [SECORA<sup>TM</sup> Blockchain python library](https://github.com/WaltherPachler/SECORA-Blockchain-Python-Library "secora-blockchain-python-lib")
 
 ## Table of Content
   * [Getting Started](#getting-started)
   * [Develop your Own Blockchain Security 2Go Application](#develop-your-own-blockchain-security-2go-application)
   * [FAQs](#faqs)
   * [Contributing](#contributing)
-  
-
+ 
   
 ## Getting Started
-wir empfehlen starter kit kaufen danach volume product secora blockchain 
-
 Infineon’s Blockchain Security 2Go starter kit provides protection of user credentials (keys) with a security controller offering security on a high level. It gives you a fast and easy way to build hardware-based security in your blockchain system design. 
 
 <p align="center"><img src="doc/pictures/bcs2go_starterkit.png" width="40%" align="middle"></p>
