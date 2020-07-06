@@ -5,7 +5,7 @@ This repository provides all you need to work with [Infineon's](https://www.infi
 
 SECORA<sup>TM</sup> Blockchain is a Java Card<sup>TM</sup> platform based one-stop-shop solution featuring field proven hardware security technology supporting best-in-class security for your blockchain systems. 
 
-In contrast to the Blockchain Security 2Go Starterkit which comes just in card-formfactor, SECORA<sup>TM</sup> Blockchain is a feature enhanced solution, available in many formfactors (e.g. dual interface modules or Infineon's novel "small passive accessory" [S-SPA1.x](https://www.infineon.com/dgdl/Infineon-Security-Solutions-Portfolio-ProductSelectionGuide-v20_02-EN.pdf?fileId=5546d4624933b875014999016c6e2bde "S-SPA1.x"). 
+In contrast to the Blockchain Security 2Go Starterkit which comes just in card-formfactor, SECORA<sup>TM</sup> Blockchain is a feature enhanced solution, available in many formfactors (e.g. dual interface modules or Infineon's novel "smart payment accessory" [S-SPA1.x](https://www.infineon.com/dgdl/Infineon-Security-Solutions-Portfolio-ProductSelectionGuide-v20_02-EN.pdf?fileId=5546d4624933b875014999016c6e2bde "S-SPA1.x"). 
 We highly recommend to start working on your blockchain idea using the NDA free evaluation kit (Blockchain Security 2Go Starterkit). Ones you are ready for ramping, get in contact and order the prefered SECORA<sup>TM</sup> Blockchain volume product.
 In order to explore the SECORA<sup>TM</sup> Blockchain features,  you can find similar to the evaluation kit framework an enhanced python library at [SECORA<sup>TM</sup> Blockchain python library](https://github.com/WaltherPachler/SECORA-Blockchain-Python-Library "secora-blockchain-python-lib")
 
